@@ -1,4 +1,4 @@
-# Voyageur-MLSA-Project
+# Voyageur MLSA Project
 A full stack website created under mentorship as part of a group project to help you book a hotel across India from a wide range of options through a custom-made Hotels API obtained by manually scraping the internet. A mix of various abilities of React from hooks to components to everything.
 
 Home Page:
