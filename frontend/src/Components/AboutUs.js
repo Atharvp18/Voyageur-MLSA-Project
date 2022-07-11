@@ -3,6 +3,7 @@ import "./AboutUs.css";
 import atharv from "./images/atharv.jfif";
 import krishna from "./images/krishna.jpeg";
 import umar from "./images/umar.jpeg";
+import kavya from "./images/kavya.jpg";
 
 const AboutUs = () => {
   return (
@@ -18,7 +19,7 @@ const AboutUs = () => {
       <div class="row">
         <div class="column">
           <div class="card">
-            <img src={atharv} alt="Kavya" className="team_picture" />
+            <img src={kavya} alt="Kavya" className="team_picture" />
             <div class="container_card">
               <h2>Kavya Parekh</h2>
               <p class="title">SVNIT, Surat</p>
