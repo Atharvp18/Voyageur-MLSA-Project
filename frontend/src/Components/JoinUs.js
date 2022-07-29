@@ -156,7 +156,7 @@ const JoinUs = () => {
                   setShowForgetPassword(true);
                 }}
               >
-                Forgot Password
+                Change Password
               </div>
               <input type="submit" value="Login" />
               <div className="signup_link">
